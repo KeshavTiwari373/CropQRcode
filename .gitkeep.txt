@@ -1,0 +1,2 @@
+qr_images
+cropped_qr
